@@ -1,0 +1,24 @@
+[
+   {
+    "name": "Sign Language Detection",
+    "desc": "Detects the hand sign using openCV and CNN algorithm using custom dataset",
+    "image": "OIP",
+    "category": "Python",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/"
+      
+    }
+   
+  },
+  {
+    "name": "Healthcare Diagnostics using ML Algorithms",
+    "desc": "Analyzes medical data, detect patterns, and assist in accurate disease diagnosis and prognosis.",
+    "image": "OIP (1)",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/"
+      
+ 
+  }
+}
+]
